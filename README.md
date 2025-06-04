@@ -26,4 +26,3 @@ Open the `nz_crash_analysis.ipynb` notebook in Jupyter and run all cells.
 - matplotlib / seaborn (optional)
 - scikit-learn
 - scipy
-- statsmodels
